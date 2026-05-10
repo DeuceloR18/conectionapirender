@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWeb", "ApiWeb\ApiWeb.csp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".gitignore", ".gitignore", "{47550311-851A-4D6E-B61C-E6F1ED66D9CE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dockerfile", "Dockerfile", "{D991957E-B8A3-40B5-BA8A-928BED7E8772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
