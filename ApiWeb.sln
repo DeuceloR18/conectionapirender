@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWeb", "ApiWeb\ApiWeb.csproj", "{B4F10786-4CD7-4DB9-9C78-ADB58095D15B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".gitignore", ".gitignore", "{47550311-851A-4D6E-B61C-E6F1ED66D9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F10786-4CD7-4DB9-9C78-ADB58095D15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F10786-4CD7-4DB9-9C78-ADB58095D15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F10786-4CD7-4DB9-9C78-ADB58095D15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F10786-4CD7-4DB9-9C78-ADB58095D15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
